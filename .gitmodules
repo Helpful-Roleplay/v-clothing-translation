@@ -1,0 +1,3 @@
+[submodule "v-clothingnames"]
+	path = v-clothingnames
+	url = https://github.com/root-cause/v-clothingnames
